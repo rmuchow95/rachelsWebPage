@@ -2,7 +2,7 @@
 
 _A simple website written entirely in HMTL and CSS_
 
-View it [here](https://rmuchow95.github.io/rachelswebpage/)
+View it [here](https://rmuchow95.github.io/rachelsWebPage/)
 
 ![Screenshot Rachels Webpage](Images/rachelsWebpageSS.png)
 
