@@ -13,4 +13,4 @@ I have recently decided to switch gears and pursue a new career: software develo
 **Author**
 
 Rachel Muchow
-Self-Taught Web Developer
+Full-Stack Web Developer
